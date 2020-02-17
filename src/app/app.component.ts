@@ -1,4 +1,4 @@
-3import { Component } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
@@ -6,5 +6,5 @@
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular';
+  name = 'Hovno';
 }
