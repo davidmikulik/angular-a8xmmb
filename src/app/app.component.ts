@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+3import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
